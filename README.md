@@ -9,5 +9,5 @@ Gesture Controlled Car is a robot which can be controlled by simple human gestur
 4. HT19D AND HT19E
 
 
-### This is an excerpt from the attached report. Download to learn more about the project
+### This is an excerpt from the attached report. Download attachment to learn more about the project
 
